@@ -1,2 +1,2 @@
 # Student-Record
-An Android App
+An android app which stores student's data in table form using sqlite
